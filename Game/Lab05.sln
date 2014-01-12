@@ -1,21 +1,21 @@
-Microsoft Visual Studio Solution File, Format Version 8.00
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab05", "Lab05.csproj", "{75E31E8A-6E97-4996-B15A-9861C7351524}"
-	ProjectSection(ProjectDependencies) = postProject
-	EndProjectSection
 EndProject
 Global
-	GlobalSection(SolutionConfiguration) = preSolution
-		Debug = Debug
-		Release = Release
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfiguration) = postSolution
-		{75E31E8A-6E97-4996-B15A-9861C7351524}.Debug.ActiveCfg = Debug|.NET
-		{75E31E8A-6E97-4996-B15A-9861C7351524}.Debug.Build.0 = Debug|.NET
-		{75E31E8A-6E97-4996-B15A-9861C7351524}.Release.ActiveCfg = Release|.NET
-		{75E31E8A-6E97-4996-B15A-9861C7351524}.Release.Build.0 = Release|.NET
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E31E8A-6E97-4996-B15A-9861C7351524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E31E8A-6E97-4996-B15A-9861C7351524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E31E8A-6E97-4996-B15A-9861C7351524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E31E8A-6E97-4996-B15A-9861C7351524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-	EndGlobalSection
-	GlobalSection(ExtensibilityAddIns) = postSolution
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
